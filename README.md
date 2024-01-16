@@ -11,3 +11,6 @@ https://github.com/jranke/chemCal
 https://bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html
 
 https://rstudio-pubs-static.s3.amazonaws.com/877912_ef947d9312b940839d83a50dbe9ed6be.html#Exponential__Logistic_Models
+
+
+https://rpubs.com/dgosser/884483
